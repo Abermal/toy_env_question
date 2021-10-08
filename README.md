@@ -1,4 +1,4 @@
 # toy_env_question
 
-# Requirements
-`pip install -r requirements.txt`
+Simple example.
+It's assumed you've installed the `imitation` library.
